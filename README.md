@@ -1,5 +1,5 @@
 # Penguin Analysis
-#penguins, penguins, penguins, penguins 
+
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
@@ -9,9 +9,9 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+**Species studied:** Adelie, Chinstrap and Gentoo penguins. 
 
-**Research location:** Dream, Torgersen and Biscoe.
+**Research location:** Biscoe, Dream and Torgersen.
 
 **Sample size:** 344
 
